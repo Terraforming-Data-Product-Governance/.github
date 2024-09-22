@@ -21,7 +21,8 @@ Below you can find descriptions of the main concepts of the model.
 
 ### Data Product Blueprint model
 
-
+![image info](../images/blueprint-with-chasms.jpg)
 
 ### Interoperability Framework
 
+![image info](../images/IF-boxes.jpg)
