@@ -1,5 +1,7 @@
 # Terraforming Data Product Governance
 
+![image info](../images/tdpg-header.png)
+
 Terraforming the Data Product Governance is a revolutionary concept that integrates Data Products, Data Contracts, Data Agreements, Pricing Plans as Code, Data Quality as Code, and SLA as Code into a cohesive, programmable, and scalable framework. This approach transforms data product management into an advanced, automated process, akin to terraforming, utilizing reusable blueprints described in a machine-readable format.
 
 By leveraging system configurations and pure code, the Data Product Governance framework empowers organizations to manage and optimize their data assets efficiently, ensuring seamless interoperability, high data quality, and robust compliance with contractual and service-level agreements. This innovative paradigm shifts the data management landscape, fostering greater agility, precision, and control in the ever-evolving data economy.
