@@ -6,7 +6,7 @@ By leveraging system configurations and pure code, the Data Product Governance f
 
 ## Further information - Get the book
 
-A book has been written about the Terraforming the Data Product Governance and it is available as hardcover and PDF. The book explains the model in details and repositories under this organization offers more practical extension to it. The most value can be gained by purchasing the book and then apply models described briefly briefly with minimal details. 
+A book has been written about the Terraforming the Data Product Governance and it is available as hardcover and PDF. The book explains the model in details and repositories under this organization offers more practical extension to it. The most value can be gained by purchasing the book and then apply models described here. 
 
 ## Main concepts
 
