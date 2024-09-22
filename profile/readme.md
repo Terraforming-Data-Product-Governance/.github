@@ -17,7 +17,11 @@ If you need help in adopting the models, do not hesitate to contact: https://www
 
 ## Main concepts
 
+Below you can find descriptions of the main concepts of the model. 
+
 ### Data Product Blueprint model
+
+
 
 ### Interoperability Framework
 
