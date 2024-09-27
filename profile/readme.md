@@ -25,4 +25,6 @@ Below you can find descriptions of the main concepts of the model.
 
 ## Interoperability Framework
 
+The framework with YAML [metadata components in own repository](https://github.com/Terraforming-Data-Product-Governance/Interoperability-framework)
+
 ![image info](../images/IF-boxes.jpg)
