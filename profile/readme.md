@@ -10,8 +10,8 @@ By leveraging system configurations and pure code, the Data Product Governance f
 
 A book has been written about the Terraforming the Data Product Governance and it is available as hardcover and PDF. The book explains the model in details and repositories under this organization offers more practical extension to it. The most value can be gained by purchasing the book and then apply models described here. 
 
-* PDF version available on Leanpub, https://leanpub.com/terraformingdataproduct 
-* Hardcover version from Amazon,  
+* PDF version available on Leanpub, https://leanpub.com/terraformingdataproduct and Amazon https://www.amazon.com/dp/B0DJT6SBZ4
+* Hardcover version from Amazon (coming soon)  
 
 If you need help in adopting the models, do not hesitate to contact: https://www.linkedin.com/in/jarkkomoilanen/ 
 
